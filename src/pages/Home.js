@@ -235,7 +235,7 @@ export default function Home() {
                             <div class="col-6">
                                 <div class="d-flex align-items-center">
                                     <div class="btn-lg-square bg-primary rounded-circle">
-                                        <i class="fa fa-drafting-compass text-white"></i>
+                                        <i class="fa fa-check text-white"></i>
                                     </div>
                                     <div class="ms-4">
                                         <p class="mb-0">Free</p>
