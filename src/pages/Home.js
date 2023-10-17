@@ -299,11 +299,11 @@ export default function Home() {
     <div class="container-fluid bg-dark text-body footer mt-5 pt-5 wow fadeIn" data-wow-delay="0.1s">
         <div class="container py-5">
             <div class="row g-5">
-                <div class="col-lg-9 d-flex col-md-6">
+                <div class="col-lg-3 col-md-6">
                     <h5 class="text-white me-4">Addresses</h5>
-                    <p class="mb-2 d-flex col-lg-4"><i class="fa fa-map-marker-alt me-3"></i>Aaba, Delt State, Nigeria</p>
-                    <p class="mb-2 d-flex col-lg-3"><i class="fa fa-phone-alt me-3"></i>+23470 1920 0657, +23491 2869 4833</p>
-                    <p class="mb-2 d-flex col-lg-4"><i class="fa fa-envelope me-3"></i>azgardc@outlook.com</p>
+                    <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>Aaba, Delt State, Nigeria</p>
+                    <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+23470 1920 0657, +23491 2869 4833</p>
+                    <p class="mb-2"><i class="fa fa-envelope me-3"></i>azgardc@outlook.com</p>
                     <div class="d-flex pt-2">
                         <a target="_blank" class="btn btn-square btn-outline-light btn-social" href="https://twitter.com/GOriuwa"><i class="fab fa-twitter"></i></a>
                         <a target="_blank" class="btn btn-square btn-outline-light btn-social" href="https://web.facebook.com/Azgard.Company?mibextid=ZbWKwL&_rdc=1&_rdr"><i class="fab fa-facebook-f"></i></a>
