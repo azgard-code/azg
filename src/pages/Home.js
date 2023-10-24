@@ -289,7 +289,7 @@ export default function Home() {
                         </div>
                     </div>
                     <div class="pt-3">
-                        <h5 >Share Thrust</h5>
+                        <h5>Thrust</h5>
                     </div>
                 </div>
             </div>
