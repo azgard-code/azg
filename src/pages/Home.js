@@ -301,7 +301,7 @@ export default function Home() {
             <div class="row g-5">
                 <div class="col-lg-3 col-md-6">
                     <h5 class="text-white me-4">Addresses</h5>
-                    <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>Aaba, Delt State, Nigeria</p>
+                    <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>Asaba, Delt State, Nigeria</p>
                     <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+23470 1920 0657, +23491 2869 4833</p>
                     <p class="mb-2"><i class="fa fa-envelope me-3"></i>azgardc@outlook.com</p>
                     <div class="d-flex pt-2">
