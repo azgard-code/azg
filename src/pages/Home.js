@@ -266,22 +266,7 @@ export default function Home() {
         </div>
     </div>
 
-    <div class="container-xxl py-5">
-        <div class="container">
-            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style={{maxWidth: '600px'}}>
-                <h1 class="mb-4">Available Public Resources</h1>
-            </div>
-            <div class="row mt-n2 wow fadeInUp" data-wow-delay="0.3s">
-                <div class="col-12 text-center">
-                    <ul class="list-inline mb-5" id="portfolio-flters">
-                        <li class="mx-2" data-filter=".first">Visit Our Available Hands-On Resources</li>
-                    </ul>
-                </div>
-            </div>
-            
-        </div>
-    </div>
-
+	
     <div class="container-fluid bg-dark text-body footer mt-5 pt-5 wow fadeIn" data-wow-delay="0.1s">
         <div class="container py-5">
             <div class="row g-5">
