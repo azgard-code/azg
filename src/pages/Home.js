@@ -278,9 +278,7 @@ export default function Home() {
                     </ul>
                 </div>
             </div>
-            <div class="row g-4 portfolio-container wow fadeInUp" data-wow-delay="0.5s">
-	    </div>
-            </div>
+            
         </div>
     </div>
 
